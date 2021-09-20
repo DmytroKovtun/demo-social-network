@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DmytroKovtun/demo-social-network/static/css/main.37ba5bde.chunk.css",
+    "main.js": "/DmytroKovtun/demo-social-network/static/js/main.1950329b.chunk.js",
+    "main.js.map": "/DmytroKovtun/demo-social-network/static/js/main.1950329b.chunk.js.map",
+    "runtime-main.js": "/DmytroKovtun/demo-social-network/static/js/runtime-main.37f0209f.js",
+    "runtime-main.js.map": "/DmytroKovtun/demo-social-network/static/js/runtime-main.37f0209f.js.map",
+    "static/js/2.5492d094.chunk.js": "/DmytroKovtun/demo-social-network/static/js/2.5492d094.chunk.js",
+    "static/js/2.5492d094.chunk.js.map": "/DmytroKovtun/demo-social-network/static/js/2.5492d094.chunk.js.map",
+    "static/css/3.fa354eae.chunk.css": "/DmytroKovtun/demo-social-network/static/css/3.fa354eae.chunk.css",
+    "static/js/3.475738ac.chunk.js": "/DmytroKovtun/demo-social-network/static/js/3.475738ac.chunk.js",
+    "static/js/3.475738ac.chunk.js.map": "/DmytroKovtun/demo-social-network/static/js/3.475738ac.chunk.js.map",
+    "index.html": "/DmytroKovtun/demo-social-network/index.html",
+    "static/css/3.fa354eae.chunk.css.map": "/DmytroKovtun/demo-social-network/static/css/3.fa354eae.chunk.css.map",
+    "static/css/main.37ba5bde.chunk.css.map": "/DmytroKovtun/demo-social-network/static/css/main.37ba5bde.chunk.css.map",
+    "static/js/2.5492d094.chunk.js.LICENSE.txt": "/DmytroKovtun/demo-social-network/static/js/2.5492d094.chunk.js.LICENSE.txt",
+    "static/media/Spinner-1s-200px.b767aab4.svg": "/DmytroKovtun/demo-social-network/static/media/Spinner-1s-200px.b767aab4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37f0209f.js",
+    "static/js/2.5492d094.chunk.js",
+    "static/css/main.37ba5bde.chunk.css",
+    "static/js/main.1950329b.chunk.js"
+  ]
+}
